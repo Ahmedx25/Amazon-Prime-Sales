@@ -1,0 +1,13 @@
+@@ AdventureWorks
+- Data Source: 
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+
+Conductivity Mode => Import
+
+Tables:
+vw_DimProducts
+vw_DimSalesPersons
+vw_DimShipMethods
+vw_DimStatuses
+vw_DimTerritories
+vw_FactOrderDetailsSS
