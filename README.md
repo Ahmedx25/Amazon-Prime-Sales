@@ -3,6 +3,9 @@
 ## 📝 Project Overview
 This project is an end-to-end **Data Analysis and Business Intelligence** solution developed using **Power BI**. It provides a comprehensive analysis of Amazon Prime's sales performance, customer ordering behavior, and regional revenue distribution between the years **2005 and 2008**. The dashboard is designed to help stakeholders identify growth opportunities and track key performance indicators (KPIs).
 
+## 📊 Dashboard Preview
+![Dashboard Preview](https://github.com/Ahmedx25/Amazon-Prime-Sales/blob/44701577140cf5c7d8eea9895feb6ad936d1fb20/Images/DashBoard%20(2).png)
+
 ## 💡 Key Insights & Findings
 * **Top Performing Category:** **Bikes** generated the highest revenue, contributing approximately **$95M** to the total sales, despite having fewer order counts compared to Accessories.
 * **Volume vs. Value:** **Accessories** had the highest number of orders (41K) but generated significantly lower revenue compared to Bikes, indicating they are high-volume, low-margin products.
